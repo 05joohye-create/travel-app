@@ -1,10 +1,1 @@
-body{margin:0;background:#f2f2f7;font-family:-apple-system,BlinkMacSystemFont,sans-serif}
-.container{max-width:430px;margin:auto;padding:16px}
-.hero{background:linear-gradient(135deg,#5b8cff,#3b82f6);color:#fff;border-radius:28px;padding:24px;box-shadow:0 10px 24px rgba(59,130,246,.25)}
-.small{opacity:.9}
-.card{background:#fff;border-radius:22px;padding:18px;margin-top:16px;box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.progress{height:10px;background:#e5e7eb;border-radius:99px;overflow:hidden}
-.fill{height:100%;width:65%;background:#3b82f6}
-.row{display:flex;justify-content:space-between;padding:6px 0}
-button{width:100%;margin-top:18px;padding:18px;border:none;border-radius:18px;background:#3b82f6;color:#fff;font-size:18px;font-weight:700}
-.tabbar{position:sticky;bottom:0;margin-top:20px;background:#fff;border-radius:18px;padding:16px;text-align:center;font-size:24px;box-shadow:0 -2px 12px rgba(0,0,0,.08)}
+body{margin:0;background:#f2f2f7;font-family:-apple-system,sans-serif}.phone{max-width:420px;margin:auto;padding:16px}.hero{background:#5b7cff;color:#fff;padding:22px;border-radius:24px}.card{background:#fff;margin-top:12px;padding:16px;border-radius:20px;box-shadow:0 3px 10px rgba(0,0,0,.08)}.row{display:flex;justify-content:space-between;padding:6px 0}nav{text-align:center;background:#fff;padding:16px;margin-top:16px;border-radius:18px}

@@ -1,1 +1,1 @@
-console.log('Travel App v0.1');
+console.log('v0.2');
