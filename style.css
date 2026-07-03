@@ -1,1 +1,8 @@
-body{margin:0;background:#f2f2f7;font-family:-apple-system,sans-serif}.phone{max-width:420px;margin:auto;padding:16px}.hero{background:#5b7cff;color:#fff;padding:22px;border-radius:24px}.card{background:#fff;margin-top:12px;padding:16px;border-radius:20px;box-shadow:0 3px 10px rgba(0,0,0,.08)}.row{display:flex;justify-content:space-between;padding:6px 0}nav{text-align:center;background:#fff;padding:16px;margin-top:16px;border-radius:18px}
+body{margin:0;background:#f2f2f7;font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+.wrap{max-width:430px;margin:auto;padding:16px}
+.hero{background:linear-gradient(135deg,#6c63ff,#7b68ee);color:#fff;padding:22px;border-radius:24px}
+.route{font-size:20px}
+.card{background:#fff;border-radius:20px;padding:16px;margin-top:12px;box-shadow:0 4px 12px rgba(0,0,0,.08)}
+.row{display:flex;justify-content:space-between;padding:6px 0}
+summary{cursor:pointer;color:#6c63ff}
+nav{margin-top:16px;background:#fff;border-radius:18px;padding:16px;text-align:center;font-size:24px}
